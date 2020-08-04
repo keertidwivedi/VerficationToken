@@ -1,0 +1,3 @@
+INSERT INTO user_table (id, username, password, salary, age) VALUES (1, 'alex123', '$2a$04$4vwa/ugGbBVDvbWaKUVZBuJbjyQyj6tqntjSmG8q.hi97.xSdhj/2', 3456, 33);
+INSERT INTO user_table (id, username, password, salary, age) VALUES (2, 'tom234', '$2a$04$QED4arFwM1AtQWkR3JkQx.hXxeAk/G45NiRd3Q4ElgZdzGYCYKZOW', 7823, 23);
+INSERT INTO user_table (id, username, password, salary, age) VALUES (3, 'adam', '$2a$04$WeT1SvJaGjmvQj34QG8VgO9qdXecKOYKEDZtCPeeIBSTxxEhazNla', 4234, 45);
