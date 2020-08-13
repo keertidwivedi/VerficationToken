@@ -72,6 +72,10 @@ public class User {
 		return email;
 	}
 
+	public String getPassword() {
+		// TODO Auto-generated method stub
+		return password;
+	}
 
 
 	public void setEmail(String email) {
@@ -96,6 +100,9 @@ public class User {
 		this.password = password;
 		
 	}
+
+
+
 
 	
 

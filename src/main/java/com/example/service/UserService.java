@@ -18,4 +18,9 @@ public interface UserService {
 
 	User registerUser(UserDto userDto);
 
+	User validateUser(String token);
+
+	
+	
+
 }
